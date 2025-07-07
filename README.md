@@ -6,3 +6,9 @@ This project aims to predict multiple water quality parameters using machine lea
 3. Scikit-learn – Machine learning model and evaluation
 4. Matplotlib, Seaborn – Data visualization
 5. Jupyter Notebook – Interactive experimentation
+# Model Performance
+The model was evaluated using:
+
+1. R² Score
+2. Mean Squared Error (MSE)
+3. Performance was acceptable across all parameters
